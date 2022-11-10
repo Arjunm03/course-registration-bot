@@ -1,4 +1,4 @@
-# course-registration-bot
+# Course Registration Bot
 
 Hi! This is a simple bot that registers your courses for you. 
 
