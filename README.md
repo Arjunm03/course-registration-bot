@@ -1,6 +1,6 @@
 # Course Registration Bot
 
-Hi! This is a simple bot that registers your courses for you. 
+Hi! This is a simple bot that registers your Gatech courses for you. 
 
 To use follow these steps:
 1) input login credentials into credentials.txt
